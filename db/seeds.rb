@@ -10,19 +10,46 @@
 
 cats = [
     {
-      name: 'Felix',
-      age: 2,
-      enjoys: 'Long naps on the couch, and a warm fire.'
+      name: 'CSS',
+      age: 7,
+      enjoys: 'Long naps on the couch.',
+      pic: "https://i.imgur.com/O0wlT4z.jpg"
     },
     {
-      name: 'Homer',
+      name: 'Job Search',
+      age: 7,
+      enjoys: 'Long naps on the couch.',
+      pic: "https://i.imgur.com/FJxFWfR.jpg"
+    },
+    {
+      name: 'Assessment',
+      age: 7,
+      enjoys: 'Long naps on the couch.',
+      pic: "https://i.imgur.com/1DwtCie.jpg"
+    },
+    {
+      name: 'Monday',
+      age: 7,
+      enjoys: 'Long naps on the couch.',
+      pic: "https://i.imgur.com/kcrwKs6.jpg"
+    },
+    {
+      name: 'White Boarding',
       age: 12,
-      enjoys: 'Food mostly, really just food.'
+      enjoys: 'Food mostly, really just food.',
+      pic: "https://i.imgur.com/lFFJvqp.jpg"
     },
     {
-      name: 'Jack',
+      name: 'Testing',
       age: 5,
-      enjoys: 'Furrrrociously hunting bugs.'
+      enjoys: 'Furrrrociously hunting bugs.',
+      pic: "https://i.imgur.com/LnalLRP.jpg"
+    },
+    {
+      name: 'Clifford',
+      age: 1,
+      enjoys: 'Long naps on the couch.',
+      pic: "https://i.imgur.com/Z5A6asr.jpg"
     }
   ]
   
